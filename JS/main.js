@@ -14,7 +14,7 @@ console.log(n);
 
 let messageNew = "";
 let loveMessages = new Messages([
-  "Wishing a very happy Valentine's Day to the one who holds a special place in my hear",
+  "Wishing a very happy Valentine's Day to the one who holds a special place in my heart🥰",
   `On this special day and always, you are everything to me ❤`,
   `I'm certain without a doubt, you are the one for me 💕`,
   `You always leave me breathless. Happy Valentine's Day!🎉`,
